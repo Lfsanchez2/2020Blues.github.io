@@ -1,0 +1,7 @@
+.banner{
+  position: fixed;
+  width: 100%;
+  background-color: #1e008a;
+  font-size: 1.5vw;
+  padding: 0.5vw;
+}
